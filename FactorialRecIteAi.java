@@ -1,7 +1,7 @@
 import java.util.Scanner;
 //Calculate the Factorial of a number using recursion and iteration.
 
-public class FactorialRecIte {
+public class FactorialRecIteAi {
     public static int fact(int factorial){
         if(factorial==0||factorial==1){
             return 1;
