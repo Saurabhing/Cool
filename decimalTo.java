@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MdecimalToO {
+public class decimalTo {
     static void main(String[] args) {
         int  result = 0,rem = 0,rev = 0,decimal = 0;
         System.out.print("Enter the number :");
