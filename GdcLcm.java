@@ -1,5 +1,5 @@
 //Find the Greatest Common Divisor (GCD) and Least Common Multiple (LCM) of two numbers.
-public class delete {
+public class GdcLcm {
 
     public static void main(String[] args) {
         int number1= 20, number2 = 100;
